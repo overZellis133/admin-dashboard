@@ -44,7 +44,7 @@ export default function LandingPage() {
               Master AI development, create powerful web applications, and join a community of innovators shaping the future of technology.
             </p>
             <div className="flex justify-center space-x-4">
-              <Link href="/signup" className="bg-yellow-400 text-gray-900 px-8 py-3 rounded-lg text-lg font-semibold hover:bg-yellow-500 transition-colors">
+              <Link href="/dashboard" className="bg-yellow-400 text-gray-900 px-8 py-3 rounded-lg text-lg font-semibold hover:bg-yellow-500 transition-colors">
                 Get Started
               </Link>
               <Link href="#learn-more" className="border border-yellow-400 text-yellow-400 px-8 py-3 rounded-lg text-lg font-semibold hover:bg-gray-800 transition-colors">
